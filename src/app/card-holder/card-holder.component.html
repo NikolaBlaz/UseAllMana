@@ -1,0 +1,6 @@
+<div @fadeIn class="image-holder" (click)="checkCost()">
+    <div [@revealCost]="lastStatus" class="black-box"></div>
+    <img  [@statusChange]="lastStatus"  src="{{card.img}}" alt="">  
+</div>
+
+

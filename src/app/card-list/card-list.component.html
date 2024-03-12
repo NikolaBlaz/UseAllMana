@@ -1,0 +1,33 @@
+<app-timer class="row timerContainer"></app-timer>
+<div class="row cardList">
+    <ng-container *ngIf="cards$ | async as cards">
+      <div class="col-12 col-sm-4 col-md-4 col-lg-2 mb-3" *ngFor="let card of cards">
+        <app-card-holder  [card]="card"></app-card-holder>
+        
+      </div>
+    </ng-container>
+  </div>
+  
+    
+    <div class="row buttonRow">
+        <ng-container *ngIf="score$ | async | number as score ">
+            <div  class="score">
+                <span class="score-title">Score: {{score}}</span>
+            </div>
+        </ng-container>  
+        <button  *ngIf="!gameRunning" class="col-2 btn nextButton"(click)="startGame()">START PLAYING</button>
+        <button *ngIf="gameRunning"class=" col-2 btn nextButton"(click)="nextRound()">NEXT</button>
+        <button *ngIf="isFinished"class=" col-2 btn nextButton"(click)="showStats()">STATISTICS</button>
+        <ng-container *ngIf="round$ | async | number: '3.0-0' as round ">
+            <div  class="score">
+                <span class="score-title">Round: {{round}}</span>
+            </div>
+        </ng-container> 
+    </div>
+    <div class="row textRow">
+      <app-how-to class="howToContainer"></app-how-to>
+      <app-logbook class="logbookContainer"></app-logbook>
+    </div>
+    
+
+

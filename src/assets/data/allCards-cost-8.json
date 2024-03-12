@@ -1,0 +1,1082 @@
+[
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/583cc7d410d87bfcd1b22f5623e348b9cc9a58cdca85524be2d7c9327c583a20.png",
+    "cost": 8,
+    "name": "Al'Akir the Windlord",
+    "id": "NEW1_010"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/975d9f3fad9300e9dcf82747a971ffd860f69fa5e162c988534e25a68d06891c.png",
+    "cost": 8,
+    "name": "Cenarius",
+    "id": "EX1_573"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bdf4220d1a6e3e925d2d52e4eb4a3dc0638ca0acffceccf6bcb1782c3600709.png",
+    "cost": 8,
+    "name": "Grommash Hellscream",
+    "id": "EX1_414"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20022c5c664bc5dac70b88042211ab9bd794120063c63e77aab7380312dc7cd6.png",
+    "cost": 8,
+    "name": "Gruul",
+    "id": "NEW1_038"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c66b013dfe6744c36f193a19619835061177163c4578390ab7d45030a045a59.png",
+    "cost": 8,
+    "name": "Tirion Fordring",
+    "id": "EX1_383"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc9789b7d0f50237e8f93c4eec7421338954103e8c5ca2170d0f66fda3f6caea.png",
+    "cost": 8,
+    "name": "Twisting Nether",
+    "id": "EX1_312"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8753e3e6c27c511c89766263c54c7b918e9dff54c3ebcf5189834a404cb8d6b.png",
+    "cost": 8,
+    "name": "Ragnaros the Firelord",
+    "id": "EX1_298"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86c497996e5246638124e1379a79f1c55e00bd875c89681fc7505a4ff4efbedb.png",
+    "cost": 8,
+    "name": "Kel'Thuzad",
+    "id": "FP1_013"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0034ab5da6adbfd0bc90795d400c92b482f2410a63655bfa7fed041653bdd278.png",
+    "cost": 8,
+    "name": "Foe Reaper 4000",
+    "id": "GVG_113"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c1dc58c39198168ae61ab7b581e91143afc0788d66e3517c2562a452b2294a1.png",
+    "cost": 8,
+    "name": "Force-Tank MAX",
+    "id": "GVG_079"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69f204b65c29ff9fb9887a62d0e9cc47e74f8192ad0c3fb659780fdcb36d88bc.png",
+    "cost": 8,
+    "name": "Sneed's Old Shredder",
+    "id": "GVG_114"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9fbff0339f5721a8b0b17c660537ef8e1fb751468ef5d50853453863d6b3871.png",
+    "cost": 8,
+    "name": "Chromaggus",
+    "id": "BRM_031"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9af1500af7ac8be6da06ec63b08aac09405417fd34d35fe752f8428816eb753f.png",
+    "cost": 8,
+    "name": "Anub'arak",
+    "id": "AT_036"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29d4d55016d8bfe688324c68ee6e89207f196c094f98998851d842b9a5c15f97.png",
+    "cost": 8,
+    "name": "Rhonin",
+    "id": "AT_009"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d09fa2fdced53092cdf6c473626c8a042cc8312cfe52b1787331076179e0b0c8.png",
+    "cost": 8,
+    "name": "Fossilized Devilsaur",
+    "id": "LOE_073"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74b0c27359e9655641c12c1c0005f959945795f2e3ebcc310019fc692d588076.png",
+    "cost": 8,
+    "name": "Naga Sea Witch",
+    "id": "LOE_038"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3bcf6da62690b669ef2a5680a1527c76ee7c6f16b0eac2b27970c46c42db5d1.png",
+    "cost": 8,
+    "name": "Anomalus",
+    "id": "OG_120"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d52aa94650db92b1f5dec25355bc7fadd8ffaff783989dd51cd2a8497be89a73.png",
+    "cost": 8,
+    "name": "C'Thun",
+    "id": "OG_280"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/956940ec7d81391bda316626a4c0540c5bbaa36ad19c5d941558781f48844e42.png",
+    "cost": 8,
+    "name": "Call of the Wild",
+    "id": "OG_211"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf216ed6d0c4cb05cc5fd5adfe50077c6f65321783920141a8116028c84ee86a.png",
+    "cost": 8,
+    "name": "Cho'gall",
+    "id": "OG_121"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/556f67895a98ceeb517abeee69027c7e027e63754606d4a3db4e9e5573ea17bf.png",
+    "cost": 8,
+    "name": "Doomcaller",
+    "id": "OG_255"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e986876a418e0ced2754306c3ee7c4e78f13a080a8822b4fff2c76f2945f196e.png",
+    "cost": 8,
+    "name": "Eldritch Horror",
+    "id": "OG_142"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26021e8b3fb7ff66306c67082dae2659c2247f7f68a43b2248212d79b55d0d76.png",
+    "cost": 8,
+    "name": "Giant Sand Worm",
+    "id": "OG_308"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7780813ab625cdcd5be349a2c244200f80a5130ea0e21e5b2d58c861a99aaa5c.png",
+    "cost": 8,
+    "name": "Ragnaros, Lightlord",
+    "id": "OG_229"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71a343240e889ac46ee79ef2668837d3548ed149441f22e999ac3823781b8000.png",
+    "cost": 8,
+    "name": "The Boogeymonster",
+    "id": "OG_300"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7de5febc881472117546733c45cf307ea9f3f6d3e0f77b0985dda82806523978.png",
+    "cost": 8,
+    "name": "Medivh, the Guardian",
+    "id": "KAR_097"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8e04708cc07bce6b634ec500252dbe5deed9aa55cccca621636678e91ff507e.png",
+    "cost": 8,
+    "name": "Ozruk",
+    "id": "UNG_907"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41d3f6ed54fd6e757f9495441bcfa8dff4cc3bdb4681177be1393dc6d3136f4b.png",
+    "cost": 8,
+    "name": "Primordial Drake",
+    "id": "UNG_848"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85b2e6873156d4827a9331110eb6b069ef3c22147902c46c6c533752aabd445e.png",
+    "cost": 8,
+    "name": "Tortollan Primalist",
+    "id": "UNG_088"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e85613a50bc869be386e128ab9480e2652c1f97d4e05c777f59551156aee11b1.png",
+    "cost": 8,
+    "name": "Glacial Mysteries",
+    "id": "ICC_086"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afa323fd5924433b48572b986bb5d484051009ddfd4fb7c3fdc73c9afa076000.png",
+    "cost": 8,
+    "name": "Rotface",
+    "id": "ICC_405"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6ec3b0bd2facb38eab882c25f8e58d65ddd0ea5681051db30519ae815497ac7.png",
+    "cost": 8,
+    "name": "Sindragosa",
+    "id": "ICC_838"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e87e4ec2692b5869c388600ad8c4ccbd0126aa2bea2d4888d516e99adc9a74cb.png",
+    "cost": 8,
+    "name": "The Lich King",
+    "id": "ICC_314"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb0e0078b53e93f57f8df5958042432af6cebd397c348357aa0b3e4f20b705c5.png",
+    "cost": 8,
+    "name": "Geosculptor Yip",
+    "id": "LOOT_519"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/760dc574085c30cd032948ea710e69c8c8ed9e064d91724e525c6abca0a3eba6.png",
+    "cost": 8,
+    "name": "Grand Archivist",
+    "id": "LOOT_414"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/702de6a5ee2420a5dec4c7d3eff55d964290aa8c4044cf200ac9edf6f9762a9d.png",
+    "cost": 8,
+    "name": "Grizzled Guardian",
+    "id": "LOOT_314"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d64b3e44bc6263c7b34d94ea843f4a51c02fc2e01d69cae302a05d37480c245a.png",
+    "cost": 8,
+    "name": "Kathrena Winterwisp",
+    "id": "LOOT_511"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64a66bf07d0e11df58ba4ca192b2ddf2ecf8d4eb514aa60023003919780a92b6.png",
+    "cost": 8,
+    "name": "King Togwaggle",
+    "id": "LOOT_541"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e89989f08047a90bd94a7550d1698d0a2b5c45406cb2504cd589c8d308bcc2c.png",
+    "cost": 8,
+    "name": "Marin the Fox",
+    "id": "LOOT_357"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/408294a5b6f5600da5065fc67c46092d4028a04ad6cb2bdc1333b3b845cc37c2.png",
+    "cost": 8,
+    "name": "Violet Wurm",
+    "id": "LOOT_153"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfadcb01c752cb641acd92094ed5f8c767a5725d231302d88d4d8b719f2d023a.png",
+    "cost": 8,
+    "name": "Cauldron Elemental",
+    "id": "GIL_119"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72d0152850af4cdae33483ea9449d0c562dc133d9483eded8ba9905ba090a6ed.png",
+    "cost": 8,
+    "name": "Deranged Doctor",
+    "id": "GIL_118"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c06046f54416f061a56ce9ede8373db165e17076075a325743901dc46f86b3e8.png",
+    "cost": 8,
+    "name": "Gilnean Royal Guard",
+    "id": "GIL_202"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df4b03ffe7826b699487e11bb926112bf79b326cd5d496427dc68381914b99be.png",
+    "cost": 8,
+    "name": "Splintergraft",
+    "id": "GIL_658"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b37d294c244840ab58962c74dd5f56f639445a3c424cd2cc7885f07ae14e1d29.png",
+    "cost": 8,
+    "name": "Splitting Festeroot",
+    "id": "GIL_616"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f2d514bec2e2dc2488a9a05a9f82de01172f96a16d0e7bb85b6091dcd972fc9.png",
+    "cost": 8,
+    "name": "Akali, the Rhino",
+    "id": "TRL_329"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/661429baa428c5a2a94dddacc2eece2f022d1bc22a01ee2903ba7b8423f959f9.png",
+    "cost": 8,
+    "name": "Captain Hooktusk",
+    "id": "TRL_126"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ec6998c354084c794369f817e3ff4542f4250004461b62cd1a278bc9db37b97.png",
+    "cost": 8,
+    "name": "Da Undatakah",
+    "id": "TRL_537"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e33ef966d891bcea505713dd966deddb522a442d082ecf59ef7c36678fdfa919.png",
+    "cost": 8,
+    "name": "Demonbolt",
+    "id": "TRL_555"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c91d52295e7286cf92fcf3407357b925cce99015826546838a8495eee758d074.png",
+    "cost": 8,
+    "name": "Hex Lord Malacrass",
+    "id": "TRL_318"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3851420a70dbedcf71c5fd2132e8ce764d2fd491053805d6ff085bd19147482.png",
+    "cost": 8,
+    "name": "Hir'eek, the Bat",
+    "id": "TRL_253"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72c182840d3343a9d06332d68e4f87e21bd990e0629f23a77b3c5342f4cbc513.png",
+    "cost": 8,
+    "name": "Mosh'Ogg Enforcer",
+    "id": "TRL_513"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/228270496c1fb8b29f046c7ac4e13385aa70e0d90c6d877d70c634c6a236fe8d.png",
+    "cost": 8,
+    "name": "Princess Talanji",
+    "id": "TRL_259"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55766a5a2f46ddd91dbfa1aac50a384f4f93e93196a85cadbd21d05f30ea866a.png",
+    "cost": 8,
+    "name": "Void Contract",
+    "id": "TRL_246"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f724f852b57a8a13055e135ea87e10135214f3a97eb4f604d6d7212912c4db60.png",
+    "cost": 8,
+    "name": "Archivist Elysiana",
+    "id": "DAL_736"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f326297d8583298f92ebc9962284bfad66abff396d72519a503e50571b23a1d.png",
+    "cost": 8,
+    "name": "Batterhead",
+    "id": "DAL_592"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/becb861f04ab5940e548b191c15bafef6ad4f774154b13e4f6c3a3ec0e725458.png",
+    "cost": 8,
+    "name": "Fel Lord Betrug",
+    "id": "DAL_607"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87c66b512fa7499d791263c5bb5b7996612cfd6a39ba903f35544c5306cc3f1c.png",
+    "cost": 8,
+    "name": "Heroic Innkeeper",
+    "id": "DAL_560"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c94ff30f29319206c7eba493a9b7cbc097a0e937221ac1a8282e9f33654a5c41.png",
+    "cost": 8,
+    "name": "Jepetto Joybuzz",
+    "id": "DAL_752"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a25b20e22361858a6386d812381c21034a297afbb97fcf2f8feabbd032fa7fab.png",
+    "cost": 8,
+    "name": "Lucentbark",
+    "id": "DAL_357"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14b0e7b6b166095b2d991615a860d003d735d88d94f4e77b680ad296a965f4ae.png",
+    "cost": 8,
+    "name": "Power of Creation",
+    "id": "DAL_578"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a669670a85123e45811bac7b32db044ff28bfbe58fa956984bf516d1acc181c.png",
+    "cost": 8,
+    "name": "The Forest's Aid",
+    "id": "DAL_256"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca5569794dc20117a5f5809927b5a22b707b8f326078aeec5d1dee5766c5c6d0.png",
+    "cost": 8,
+    "name": "Walking Fountain",
+    "id": "DAL_047"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4b783df7965f2b9047a981a17c41e2e661872426202d39d868fcbbf4ef92983.png",
+    "cost": 8,
+    "name": "Whirlwind Tempest",
+    "id": "DAL_742"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f918505581b13aa4c5e151e65767e3b04f3e1e0f06c3fb1457f212538950f970.png",
+    "cost": 8,
+    "name": "Octosari",
+    "id": "ULD_177"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69d2e496160de715c48240b2d21bbd171f7514e562821c9e80f8a8075b489516.png",
+    "cost": 8,
+    "name": "Pit Crocolisk",
+    "id": "ULD_190"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f08949a2aa0f10ac1c9409a49525c4224c74eb5e9e152539a7a01741a8a6ab80.png",
+    "cost": 8,
+    "name": "Tip the Scales",
+    "id": "ULD_716"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11a69ab9c39913c234ec709dce751d43eb6e44a36a8472ea1b6f9de1ba3594be.png",
+    "cost": 8,
+    "name": "Tomb Warden",
+    "id": "ULD_253"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ea674d67f4a4d7383069698bd47fdf9b23d9c6e84436a394b98eaa8a85f55d5.png",
+    "cost": 8,
+    "name": "Tortollan Pilgrim",
+    "id": "ULD_236"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/473ba7879d4abfceabbd66789ffe08ddd880f60807462d7aca27a9720baabcdf.png",
+    "cost": 8,
+    "name": "Deathwing, Mad Aspect",
+    "id": "DRG_026"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7cdec008225dc50dd530eb50843fe009cea16c554ae1b20d9c3eb52426453c67.png",
+    "cost": 8,
+    "name": "Mana Giant",
+    "id": "DRG_109"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b28dfdd55d68d20d5cccd008d483f59b3133c667fe6598fb29df945f4d2c611.png",
+    "cost": 8,
+    "name": "Murozond the Infinite",
+    "id": "DRG_090"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e08aa39c0f692e7e951a228d90f34929f16e9377e622673bdd67121a8c77f19.png",
+    "cost": 8,
+    "name": "Twin Tyrant",
+    "id": "DRG_213"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92ec7c23a56b03207a788ab3dc784db653f0d3f5cc363a9de8ac016074001a9b.png",
+    "cost": 8,
+    "name": "Zzeraku the Warped",
+    "id": "DRG_209"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4d1832d0c1a7649588c6f8fd5616baa051a06f854519755b372c3e9b5b08299.png",
+    "cost": 8,
+    "name": "Beastmaster Leoroxx",
+    "id": "BT_214"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/204729699fba3dd577e612f93397513bd9027a04fdf2586170b52f395f94673a.png",
+    "cost": 8,
+    "name": "Coilfang Warlord",
+    "id": "BT_761"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2682bb47f1be394b24f57f728d4a7f54bf198a2ecd176afd1649231f34488f59.png",
+    "cost": 8,
+    "name": "Deep Freeze",
+    "id": "BT_072"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5b8a884ee684786220a729965bd07710711eef1c0c5e7d5491ac23b25590cd5.png",
+    "cost": 8,
+    "name": "Enhanced Dreadlord",
+    "id": "BT_304"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e02ac6c55ca1e7813f161a82fd19cf99ab7f5b68f66f1d9d5ba949ae381cd3fd.png",
+    "cost": 8,
+    "name": "Supreme Abyssal",
+    "id": "BT_734"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cf5c54ea113b737d40aea9005599b56db47e3189fb18d18c509902d66b39459.png",
+    "cost": 8,
+    "name": "Archwitch Willow",
+    "id": "SCH_181"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec1e70f5bf662c454c60d5b58cfc9b7063d4044ec5e5a5da82335029a7ac8a37.png",
+    "cost": 8,
+    "name": "Plagued Protodrake",
+    "id": "SCH_711"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ca2075eb7b14bd71a94cb2c8c04688716c2aac40880719827087c740f7c3909.png",
+    "cost": 8,
+    "name": "Tidal Wave",
+    "id": "SCH_535"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ef362e2a7f439921bcef359de1be7c4b6b0360e606fd38c618b15af7d184e60.png",
+    "cost": 8,
+    "name": "Troublemaker",
+    "id": "SCH_337"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/081c0b3d6c3cfb77a546326bcbc9a999e61f7d843b9a8ef25855fe66efc50a91.png",
+    "cost": 8,
+    "name": "Turalyon, the Tenured",
+    "id": "SCH_135"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d98dcd626bccd8fefaa64426ee66198427600b2a59c16d7732d3586ceabfe256.png",
+    "cost": 8,
+    "name": "Hulking Overfiend",
+    "id": "BT_487"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/025bf193c37f6f683dd9e6a04ba736838ab0959c3607257a202898904299d6cd.png",
+    "cost": 8,
+    "name": "Cenarion Ward",
+    "id": "DMF_732"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb5f258d5357485333ca4133105b7873f38144296a7e67733e9b78b33713832c.png",
+    "cost": 8,
+    "name": "G'huun the Blood God",
+    "id": "DMF_056"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d7020da369b82d1794d6f984cbb8558da6e8e8e39605bcfa5c126c1068dd4d6.png",
+    "cost": 8,
+    "name": "Grand Finale",
+    "id": "DMF_104"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76a62c94e279ba2aa83f47c9709ba92ce0d812f9ed06e068056d7c0113da44c5.png",
+    "cost": 8,
+    "name": "High Exarch Yrel",
+    "id": "DMF_241"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ebcad78389c5b75033d56dd095268a14f0415f50fb2e11e635d43ae56bbf0029.png",
+    "cost": 8,
+    "name": "Idol of Y'Shaarj",
+    "id": "DMF_055"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b232918d03c7510f9b55be18edc20fe05e5f6d2f4f4eba2f15cdfffc384c3870.png",
+    "cost": 8,
+    "name": "Jewel of N'Zoth",
+    "id": "DMF_084"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ada6350d5b40f67c1570e523c0d9c6d61f5937690ed8f6f1ddf30088606277ff.png",
+    "cost": 8,
+    "name": "Celestial Alignment",
+    "id": "BAR_539"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1823b58643d60d7a3200a893dc17204dfd49c382c91638c53c1bd1406337296d.png",
+    "cost": 8,
+    "name": "Deviate Dreadfang",
+    "id": "WC_036"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c31786130f9516f761bae930ee1a7af58913f85c808ee8a7f2b70b79fd710489.png",
+    "cost": 8,
+    "name": "Mordresh Fire Eye",
+    "id": "BAR_547"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3e64b9cc9bd13e5fdf3297ef9de417fe8b8f6a8353e5f4d1c5f6e01a0506e24.png",
+    "cost": 8,
+    "name": "Power Word: Fortitude",
+    "id": "BAR_308"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/677ae1ae66bdba8692cec61592b63c39723ea26aa534c3c1719507b34d28d927.png",
+    "cost": 8,
+    "name": "Primordial Protector",
+    "id": "BAR_042"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42aae0166bbb2fe7a4f0017c5a2e02f9caa1a5c73806451188e5e8addef4c7f9.png",
+    "cost": 8,
+    "name": "Taintheart Tormenter",
+    "id": "WC_040"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/058280922d1a8018c9f93c51ceb5e96e1a0bf213eddcd56551cbe87411333f9d.png",
+    "cost": 8,
+    "name": "Arcane Devourer",
+    "id": "EX1_187"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bef55c7e441b400b377e85ba091ce76b4497716210f4791d8a22361055501389.png",
+    "cost": 8,
+    "name": "Gift of the Wild",
+    "id": "EX1_183"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95a84af19d6e8abf0b032f4e5c854aba4f2d25002d9053fde019391be699cac2.png",
+    "cost": 8,
+    "name": "Inner Demon",
+    "id": "BT_512"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e83388f198b646a513828c146e7a3707f32d2b6d8089bb7e570e50312b8c8fb.png",
+    "cost": 8,
+    "name": "Ironbark Protector",
+    "id": "CS2_232"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/455080911f512edcf26f91de78d10b044775b5d37780d560abe2b4fe6451e07f.png",
+    "cost": 8,
+    "name": "Natalie Seline",
+    "id": "EX1_198"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/424a3cf20100ab09977976c5f62680e2ae4247f586a44a4c60e6b0678ea59fca.png",
+    "cost": 8,
+    "name": "Al'Akir the Windlord",
+    "id": "CORE_NEW1_010"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd7351df7e21e3e1e708aa599a3b037bccd14ec8f9772c47f1a79a06e620c3d3.png",
+    "cost": 8,
+    "name": "Cenarius",
+    "id": "CORE_EX1_573"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d37389900dd48b4354c18fd58dd8e14080ee121c52ee6a1c4094672879a90040.png",
+    "cost": 8,
+    "name": "Grommash Hellscream",
+    "id": "CORE_EX1_414"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e5dbc52578f5e30ddb73420044e490cee459557365e4af67f0ed7ce21777651.png",
+    "cost": 8,
+    "name": "Illidari Inquisitor",
+    "id": "CS3_020"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d72deb228ef9d4a66c08e2b73d2aa7a1c8a66caae061a3660b363d2f80f8cc5.png",
+    "cost": 8,
+    "name": "Lord Marrowgar",
+    "id": "RLK_085"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6831deffbd4bd9a78e95e6a01e7d3f9f4dabf8f7ed84c810dc1b5cb05ea50d24.png",
+    "cost": 8,
+    "name": "Primordial Drake",
+    "id": "CORE_UNG_848"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4442927e53298a49fe869cd874ca5c78e773200c51d2050f1d419f50a9c6391e.png",
+    "cost": 8,
+    "name": "Tirion Fordring",
+    "id": "CORE_EX1_383"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/588d3156ff99bf84deb30b32ce34936b241320c87704a0fd80948621cfd0516c.png",
+    "cost": 8,
+    "name": "Twisting Nether",
+    "id": "CORE_EX1_312"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/813f4096a4415932d746f4367726e28dffb25ff251c6481978d60a8cc995d228.png",
+    "cost": 8,
+    "name": "Al'Akir the Windlord",
+    "id": "VAN_NEW1_010"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c607a467aa400d65767db267ea29dd64bf8220aa511fbd460622925b4dfdb003.png",
+    "cost": 8,
+    "name": "Grommash Hellscream",
+    "id": "VAN_EX1_414"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a308221eff994fb5abcdf4a33459dd4d4cf829735512ea26517b5fff17840d8.png",
+    "cost": 8,
+    "name": "Gruul",
+    "id": "VAN_NEW1_038"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8a94772950bca0fc1437ebb1bbd2aa2c0cbcea6beb5c84214a28280cc0a31fc.png",
+    "cost": 8,
+    "name": "Ironbark Protector",
+    "id": "VAN_CS2_232"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecda2787e2223cc8ef67b56cab045d53c6933be8a084cd55e76ccb9b28a4f9f3.png",
+    "cost": 8,
+    "name": "Lay on Hands",
+    "id": "VAN_EX1_354"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/055854e3a26cf91629646d77140ae40155edc67da9090c9069116e74e61cdee7.png",
+    "cost": 8,
+    "name": "Ragnaros the Firelord",
+    "id": "VAN_EX1_298"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/814c28fc15962fdfa47049d686468d233275c882ae9e3dcbb74a925ceb5f68bc.png",
+    "cost": 8,
+    "name": "Tirion Fordring",
+    "id": "VAN_EX1_383"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca5392e32ac37e90b3819c696743b4851d42e64eabe9248f982bd2e2eb04e326.png",
+    "cost": 8,
+    "name": "Twisting Nether",
+    "id": "VAN_EX1_312"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f53b854ead2ccab317abf1000214f740994f45bd37b4e50cafdaf564c9f0cd19.png",
+    "cost": 8,
+    "name": "Goliath, Sneed's Masterpiece",
+    "id": "DED_525"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3aff45dcd2fa2fdf6a5a000e0b2a39c6f9d9a1835788c02c1f59bcee664ab834.png",
+    "cost": 8,
+    "name": "Grand Magus Antonidas",
+    "id": "SW_113"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77dca6a648cc3fb8eb67debe97cec28652615bfc5c7336f75017e8bdad416682.png",
+    "cost": 8,
+    "name": "Jace Darkweaver",
+    "id": "SW_044"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a34446cd4b266e6facd0e41f8e34ae8227a9bb071d7985254dc9af8d57444e07.png",
+    "cost": 8,
+    "name": "Maddest Bomber",
+    "id": "DED_521"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df3a7fbc57997f4c6909bb08e2652f94167a5cc4da18bdd90726fdc828fa56d5.png",
+    "cost": 8,
+    "name": "Mo'arg Forgefiend",
+    "id": "SW_068"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ee1d45f22784a99059c63ec64ccdeeb65ae5c19d5ebc6c641191a0aa7240682.png",
+    "cost": 8,
+    "name": "Sheldras Moontree",
+    "id": "SW_447"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37d6d508eb4249c08708207b43e2f3c978af8a655932cf40b6410e83f0141d40.png",
+    "cost": 8,
+    "name": "Varian, King of Stormwind",
+    "id": "SW_081"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f0744ce4ef526643b437a3ffe5bcbea2b462eca83b7526a5b6a28eb92f4b604.png",
+    "cost": 8,
+    "name": "Abominable Lieutenant",
+    "id": "AV_139"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/311f81047c987e35f3cfdeb46cb73273fca437d087289256ff0788728da2d2f3.png",
+    "cost": 8,
+    "name": "Brasswing",
+    "id": "AV_340"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1105ff613004443d079b4d6237f75b73f090c6e05a6c327b1a2c5fdb3bc23801.png",
+    "cost": 8,
+    "name": "Haleh, Matron Protectorate",
+    "id": "ONY_007"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05966b3a48e6656f9bc2f3db0e1dc536a57c3707b22b807389a66456f1120bf4.png",
+    "cost": 8,
+    "name": "Kazakusan",
+    "id": "ONY_005"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c371e74a3fac688782495b97966399fd12bd82072aedf6573520e63e9f6cefe.png",
+    "cost": 8,
+    "name": "Smokescreen",
+    "id": "ONY_031"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d96f0e947ab2f69386490e4d9cec1c25ecba6452f80a933af2a8a569e2af913.png",
+    "cost": 8,
+    "name": "Templar Captain",
+    "id": "AV_339"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/770a49ca66d3ae8c806450500ccd5c54b87c0f7647cb477fa9ec637fa8346a1f.png",
+    "cost": 8,
+    "name": "Troll Centurion",
+    "id": "AV_132"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d245647d2e2e7f6b6de904d528b5e4c769ae53c6639a29958279d1d9af13d927.png",
+    "cost": 8,
+    "name": "Gaia, the Techtonic",
+    "id": "TSC_029"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79f42cd5a13041b889e4676614ffbfba81db82f9bf03ec94889a99f4571f5862.png",
+    "cost": 8,
+    "name": "Gigafin",
+    "id": "TSC_962"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70c20ee1ee051f7d00249ad6bd9ebdaab78552b8423d88f4d8cdb7f451dbd232.png",
+    "cost": 8,
+    "name": "Miracle Growth",
+    "id": "TSC_656"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81a201ab711802cd723ab8a3f9b7a736535d22e32988659433d3c77704f24b1d.png",
+    "cost": 8,
+    "name": "Ozumat",
+    "id": "TID_711"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a88a0b8abca68275e9bda83e61ea929cb60fca328d66e3c3dc57e47d5b750f3b.png",
+    "cost": 8,
+    "name": "Pirate Admiral Hooktusk",
+    "id": "TSC_934"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87c5fa228bbc17c658ca94e64c374bced7b02b2155796e7bf07aaac312572a85.png",
+    "cost": 8,
+    "name": "Tidal Revenant",
+    "id": "TID_716"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2223eba0c68fe90bf10a03bc1a17ef964a9fbdd26be31722e19b748ce92f2e9.png",
+    "cost": 8,
+    "name": "Whirlpool",
+    "id": "TSC_209"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffab47488ed0b39b8376b0fbf4df1f8182eb41153fd8e87f41e8dbbcc02cff57.png",
+    "cost": 8,
+    "name": "Enhanced Dreadlord",
+    "id": "CORE_BT_304"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63f5909d8510f2eba1d1688f0b8dc3eb582d2be8df08fab2ebe25a796af97ee1.png",
+    "cost": 8,
+    "name": "Ragnaros the Firelord",
+    "id": "CORE_EX1_298"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad5cecb1a2e2e581debe97e629cb416351eaf4d9306d8d7bf5df5798d92ef413.png",
+    "cost": 8,
+    "name": "Artificer Xy'mox",
+    "id": "REV_937"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28f1745e6b2b706461c2a3dd5c6f9eaa41e25ce5cb72c5ddbf80ca31941d0e41.png",
+    "cost": 8,
+    "name": "Collateral Damage",
+    "id": "REV_369"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b67a3a8e29fc1e0e22d4831fbb95f8c9af7c0cd41d36ee8974cecaabb3749299.png",
+    "cost": 8,
+    "name": "Criminal Lineup",
+    "id": "REV_517"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8962ad16201b8f46ea45861da25c3477c8012331b5c5c06d944f7bac0b23ae59.png",
+    "cost": 8,
+    "name": "Kael'thas Sinstrider",
+    "id": "REV_021"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ab02f5e99a00e174670d3adbbdb4275a0614ee57e719d834b86e92bc3cbaf5d.png",
+    "cost": 8,
+    "name": "Kel'Thuzad, the Inevitable",
+    "id": "REV_514"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11a92ea7509fcb511f3f54bb13c6d5039492c741d38c1b2c919b298c2442f559.png",
+    "cost": 8,
+    "name": "Nightshade Bud",
+    "id": "REV_311"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/847e898088e74dc0dc319d52ea6e4d7e0fecc739690b6c14d9dbde27effedeeb.png",
+    "cost": 8,
+    "name": "Party Crasher",
+    "id": "REV_370"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b9344665f7894694f06f9c4c48848f3a694d62666c38b63efd51a9c32993c18.png",
+    "cost": 8,
+    "name": "Sesselie of the Fae Court",
+    "id": "REV_319"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e572e7c5e21652ea719c29f25712d4704becced72fcf4ff05d7fc8d60d158644.png",
+    "cost": 8,
+    "name": "Torghast Custodian",
+    "id": "MAW_030"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e80e5e8056293213bfb93c8a6c62c9fb0cf1263b9808b4fd8f041b3a24e31f5.png",
+    "cost": 8,
+    "name": "Anub'Rekhan",
+    "id": "RLK_659"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e265f8a9f493b699969643b0f5f5955db2f3d1fd67c04313101f22fec89248c.png",
+    "cost": 8,
+    "name": "Arcane Defenders",
+    "id": "RLK_544"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f796547ccdd6f9375ea3e11ca2789ed5f8b7966c00ab880be76b3b626a48bbc5.png",
+    "cost": 8,
+    "name": "Blightblood Berserker",
+    "id": "RLK_551"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e3e42f270b3289e7afc7550aa05e0e7930896927a30f5618500e61663632474.png",
+    "cost": 8,
+    "name": "Boneguard Commander",
+    "id": "RLK_506"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/960dd171afa6dea3237ec4968d6f1ed372d305f21d7da7d59726b4d458759d31.png",
+    "cost": 8,
+    "name": "Crypt Keeper",
+    "id": "RLK_651"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88b0fcd1ad985d9831151595abd3e57087df45e06b3dccb856942743519d6eea.png",
+    "cost": 8,
+    "name": "Invincible",
+    "id": "RLK_592"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d78a976a9dde6fbdec22fb71b2e499ed0b55c8f81c319b77bfc1c8ab59ece8a0.png",
+    "cost": 8,
+    "name": "Soulstealer",
+    "id": "RLK_741"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7541e08b7e05a898e5e6312c0903e09bc9dc482684111d8324b12f23b58312e9.png",
+    "cost": 8,
+    "name": "Cage Head",
+    "id": "ETC_526"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71d279b4d5e4bd0d54f96ff094c2268e5bddf96dca1eef3e21ec548e2b48a39d.png",
+    "cost": 8,
+    "name": "Concert Promo-Drake",
+    "id": "ETC_099"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b06818003375577a7734ecea7e37c9b4289414f204998cc312481f0daf917ae5.png",
+    "cost": 8,
+    "name": "Mish-Mash Mosher",
+    "id": "ETC_419"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20d8070700914b27c8a29f7cf693e3132017962bd68c3cd8e8a710e0a3806e5f.png",
+    "cost": 8,
+    "name": "Stranglethorn Heart",
+    "id": "ETC_208"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3455b025c193d5335f9994c19fc9d812f05e4b8662ded536f9e67d1384968745.png",
+    "cost": 8,
+    "name": "Cultivation",
+    "id": "TTN_954"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51e85c899fae0500f9a4b484a14c0917a26ae431bb24488ccdc9829f4dbdeb50.png",
+    "cost": 8,
+    "name": "Freya, Keeper of Nature",
+    "id": "TTN_940"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5550076d182515deac8b2e326a18f1853c9cf969d682f48d1cb67f9767e9d23.png",
+    "cost": 8,
+    "name": "Hodir, Father of Giants",
+    "id": "TTN_752"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/281e68b6ac1ae5d7ebb93fb5ad142c72daf211bce5def8a414016bc714e0c62b.png",
+    "cost": 8,
+    "name": "Kologarn",
+    "id": "TTN_330"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/787bf3c5b0372ce9408e1b9d7506097a5010e303b7a182824c7be9fde17f52a0.png",
+    "cost": 8,
+    "name": "Odyn, Prime Designate",
+    "id": "TTN_811"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d88b89ee7a2857f239e84d19db4b753293b1a579ac712128f79c6711ffbe35c0.png",
+    "cost": 8,
+    "name": "Shapeless Constellation",
+    "id": "TTN_441"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf0bef9978b1f2f260038fc168369f5a946b13c2506a4c492c65386ba3e37bf4.png",
+    "cost": 8,
+    "name": "Son of Hodir",
+    "id": "TTN_083"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0eb4421d3687e6be2a5b0cdf0034cad74afb193280916f8b465724b5aad3efc1.png",
+    "cost": 8,
+    "name": "Storm Giant",
+    "id": "TTN_724"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66abc27c46152ec7f19c099811a3aa59459e1c158b03cf02b8c504e55ab73631.png",
+    "cost": 8,
+    "name": "The Primus",
+    "id": "TTN_737"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50a5147f4f3209142312aeebd6a17acd348b4cad5af6345f0b019b0dfef6b24b.png",
+    "cost": 8,
+    "name": "Anub'arak",
+    "id": "WON_076"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06e2c03c3524cdd37dd263267678bd0a18c95ec8cbb0d60799bce7e559e53f9a.png",
+    "cost": 8,
+    "name": "C'Thun",
+    "id": "WON_135"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7c52f21061aef1f2a825984b0b98feebcc53ece2e04356d5b0b7cb2c9c78ba8.png",
+    "cost": 8,
+    "name": "Cho'gall",
+    "id": "WON_105"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6e18978a0e6942bb4ff81dc49d49e59dfb0b44a6789eb95643d80d5bf7c1eae.png",
+    "cost": 8,
+    "name": "Azerite Giant",
+    "id": "WW_025"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fec2bcc36fae689e7ed224bc010b6ed3573d677bf7e5859243d627743d12e6b.png",
+    "cost": 8,
+    "name": "Boomboss Tho'grun",
+    "id": "WW_372"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/622187249ef601ee0eadcfa2edac129bee2c75eba09af5d939a074c77b748f0f.png",
+    "cost": 8,
+    "name": "Elise, Badlands Savior",
+    "id": "WW_392"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/547a3118a4dab7cdb1d0c31ddd56f119e2067aeaa931646fe7567d43af07b78e.png",
+    "cost": 8,
+    "name": "Prismatic Beam",
+    "id": "WW_336"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc9b8add05a3d6fae3c426920d156ad11d38635b732033e9de737b866cf3925a.png",
+    "cost": 8,
+    "name": "Rheastrasza",
+    "id": "WW_824"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ec29cca4a5c31fdb904c0636eddf0b2b99f9d0f05c4c0eec8a5457191ad6916.png",
+    "cost": 8,
+    "name": "Thunderbringer",
+    "id": "WW_440"
+  },
+  {
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/224d5b3588475136c0499ae25d7462c130c4b71c1134b8b68e9047c0952c56bc.png",
+    "cost": 8,
+    "name": "Colifero the Artist",
+    "id": "TOY_703"
+  }
+]

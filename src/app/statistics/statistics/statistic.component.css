@@ -1,0 +1,56 @@
+.statistic-container {
+  width: 500px;
+  background-color: #333131;
+  border: 1px solid #ced4da;
+  box-shadow: inset 2px 3px 20px rgb(18, 89, 92);
+  border-radius: 4px;
+  padding: 10px;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.statistic-item {
+  width: 100%;
+  padding: 10px;
+  background-color: #524f4f;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  opacity: 0;
+  transform: translateX(-100%);
+  animation: slide-in 0.5s ease-out forwards;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.statistic-label {
+  font-size: 2em;
+  color: white;
+  margin-right: 10px;
+  
+}
+.statistic-value {
+  font-size: 2em;
+  color: white;
+  margin-right: 10px;
+  
+}
+
+.backButton{ 
+  width: 30%;
+  background-color: cornflowerblue;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+@keyframes slide-in {
+  0% {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}

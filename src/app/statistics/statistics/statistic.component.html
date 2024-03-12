@@ -1,0 +1,12 @@
+<ng-container *ngIf="statisticItems.length > 0">
+  <div class="statistic-container" [@statisticAnimation]>
+    <div class="statistic-item" *ngFor="let stat of statisticItems; let i = index">
+      <span class="statistic-label">{{ stat.label }}:</span>
+      <span class="statistic-value">{{ stat.value }}</span>
+    </div>
+    <button routerLink="/" class="btn backButton"> BACK </button>
+  </div>
+  
+</ng-container>
+
+

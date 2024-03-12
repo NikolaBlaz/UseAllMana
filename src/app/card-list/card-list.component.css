@@ -1,0 +1,78 @@
+.cardList{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border: none;
+    background-color: #333131;
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    padding: 20px;
+    min-height: 600px;
+    
+    margin-top:20px;
+    margin-right: 100px;
+    margin-left:100px;
+    
+    box-shadow: inset 2px 3px 20px rgb(18, 89, 92);
+}
+.buttonRow{
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    justify-content: space-evenly; 
+}
+.card{
+    min-width: 15%;
+    max-width: 15%;  
+    background-color: transparent;
+    border: none;
+}
+
+.textRow{
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.howToContainer{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+}
+.logbookContainer{
+    width: 20%;
+    
+}
+.timerContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.nextButton{ 
+    width: 30%;
+    background-color: cornflowerblue;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.score{ 
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    border-width: 10px;
+    background-color: rgb(174, 191, 223);
+    justify-self: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.score-title{
+ color: #5a3f3f;
+ font-size: 3em;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}

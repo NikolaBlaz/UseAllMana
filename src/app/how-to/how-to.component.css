@@ -1,0 +1,29 @@
+.how-to-block {
+    background-color: #333131;
+    border: 1px solid #ced4da;
+    box-shadow: inset 2px 3px 20px rgb(18, 89, 92);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+  }
+  
+  .how-to-title {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .how-to-steps {
+    color: white;
+    list-style-type: decimal;
+    padding-left: 20px;
+    max-width: 70%;
+  }
+  
+  .how-to-steps li {
+    list-style-type: none;
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }

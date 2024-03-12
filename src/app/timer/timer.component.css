@@ -1,0 +1,20 @@
+.timer {
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    border-width: 10px;
+    background-color: rgb(174, 191, 223);
+    justify-self: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .timer-display {
+    color: #5a3f3f;
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }

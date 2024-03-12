@@ -1,0 +1,26 @@
+.log-container {
+    background-color: #333131;
+    border: 1px solid #ced4da;
+    box-shadow: inset 2px 3px 20px rgb(18, 89, 92);
+    border-radius: 4px;
+    padding: 10px;
+    max-height: 100px; 
+    overflow-y: auto; 
+  }
+  
+  .log-title {
+    color: white;
+  }
+  
+  .log-messages {
+    margin-top: 10px;
+  }
+  
+  .log-message {
+    background-color: #524f4f;
+    border: 1px solid #ced4da;
+    color: white;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+  }

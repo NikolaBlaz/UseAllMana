@@ -1,0 +1,6 @@
+<ng-container *ngIf="(timer$ | async) as time ">
+    <div class="timer">
+        <span class="timer-display">Time:</span>
+        <div class="timer-display" [ngStyle]="{color:  time | colorTime}">  {{ time | number: '2.0-0'}}</div>
+    </div>
+</ng-container>
