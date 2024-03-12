@@ -1,7 +1,8 @@
 # UseAllMana
 This is a simple quiz game made for the popular game Hearthstone.
 You can find the latest version deployed at:
-use-all-mana.web.app
+
+https://use-all-mana.web.app
 
 This is not a finished product, some code is still just placeholder.
 
