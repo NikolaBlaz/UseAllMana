@@ -4,7 +4,7 @@
     box-shadow: inset 2px 3px 20px rgb(18, 89, 92);
     border-radius: 4px;
     padding: 10px;
-    max-height: 100px; 
+    max-height: 300px; 
     overflow-y: auto; 
   }
   

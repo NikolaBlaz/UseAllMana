@@ -22,9 +22,11 @@ export class CardListComponent implements OnInit, OnDestroy{
 
   @HostListener('document:keydown', ['$event'])
   onKeyDown(event: KeyboardEvent) {
-    if (event.code === 'Space' && this.gameRunning   ) {
+    if (event.code === 'Space') {
       event.preventDefault();
-      this.nextRound();
+      if(this.gameRunning ){
+        this.nextRound();
+      }
     }
   }
   
